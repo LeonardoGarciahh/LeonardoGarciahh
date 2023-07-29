@@ -1,16 +1,18 @@
-### Hi there 👋
+# Perfil Acadêmico - Leonardo Garcia
+Este é o perfil acadêmico de Leonardo Garcia, um profissional dedicado e entusiasmado na área de tecnologia.
 
-<!--
-**LeonardoGarciahh/LeonardoGarciahh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Formação Acadêmica
+Tecnólogo em Análise e Desenvolvimento de Sistemas - Senac
 
-Here are some ideas to get you started:
+# Perfil profissional do GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/LeonardoGarciah">
+        <img src="https://github.com/LeonardoGarciah.png" width="100px" height="100px" alt="LeonardoGarciah">
+        <br />
+        <sub><b>LeonardoGarciah</b></sub>
+      </a>
+    </td>
+</table>
